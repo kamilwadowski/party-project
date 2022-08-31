@@ -13,5 +13,7 @@ public class Program {
         field1.buildField();
         System.out.println("##############");
         System.out.println("to jest proba kolejnego commita");
+
+        System.out.println("to jest proba kolejnego commita");
     }
 }
